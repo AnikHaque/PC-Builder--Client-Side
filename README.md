@@ -4,7 +4,6 @@
 
 #### Client GitHub Repo: https://github.com/mdpahlovi/ultra-pc
 
-#### Server GitHub Repo: https://github.com/mdpahlovi/ultra-pc-server
 
 ### Layout:
 
