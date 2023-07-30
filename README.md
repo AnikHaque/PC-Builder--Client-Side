@@ -2,7 +2,7 @@
 
 #### LiveLink: https://ultra-pc.vercel.app/
 
-#### Client GitHub Repo: https://github.com/mdpahlovi/ultra-pc
+#### Client GitHub Repo:https://github.com/AnikHaque/PC-Builder--Client-Side
 
 #### Server GitHub Repo: https://github.com/mdpahlovi/ultra-pc-server
 
