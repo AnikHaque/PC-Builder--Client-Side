@@ -1,4 +1,4 @@
-## PC-Builder - A Simple PC Builder website using Next.js and Ant Design
+## Ultra PC - A Simple PC Builder website using Next.js and Ant Design
 
 #### LiveLink: https://ultra-pc.vercel.app/
 
