@@ -4,7 +4,7 @@
 
 #### Client GitHub Repo:https://github.com/AnikHaque/PC-Builder--Client-Side
 
-#### Server GitHub Repo: https://github.com/mdpahlovi/ultra-pc-server
+#### Server GitHub Repo: https://github.com/AnikHaque/PC-Builder-Server-Side
 
 ### Layout:
 
